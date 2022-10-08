@@ -33,7 +33,7 @@ p {
     text-align: center;
 }
 .lounchApp {
-    margin: 50;
+    margin-left: 50px;
     
     color: antiquewhite;
     background-color: blueviolet;
@@ -42,8 +42,5 @@ p {
     border-color: black;
     border-style: dotted;
     border-radius: 3px;
-    padding: 5px;
-}
-.col-6 .lounchApp {
-    text-align: center;
+    padding: 8px;
 }
