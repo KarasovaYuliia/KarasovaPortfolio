@@ -51,6 +51,6 @@ p {
     border-radius: 10px;
     padding: 10px;
 }
-#violetBox {
+.violetBox {
     background-color: rgb(237, 231, 243);
 }
