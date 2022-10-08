@@ -34,6 +34,7 @@ p {
     text-decoration: none;
     border: 5px;
     border-color: blueviolet;
+    border-style: dotted;
     border-radius: 3px;
     padding: 5px;
 }
