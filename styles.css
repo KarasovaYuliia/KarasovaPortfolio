@@ -41,6 +41,9 @@ p {
     flex: 0 0 auto;
     padding: 0 12px;
 }
+.col-md-6 .image1 {
+    text-align: left;
+}
 
 .lounchApp {
     margin-left: 50px;
