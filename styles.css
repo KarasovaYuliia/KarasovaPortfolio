@@ -28,6 +28,9 @@ p {
 }
 .lounchApp {
     text-align: center;
+    text-decoration: none;
+    border: 3px;
     border-color: blueviolet;
+    border-radius: 3px;
     padding: 5px;
 }
