@@ -27,10 +27,12 @@ p {
     text-align: center;
 }
 .lounchApp {
+    margin: 0;
     text-align: center;
-    background-color: brown;
+    color: antiquewhite;
+    background-color: blueviolet;
     text-decoration: none;
-    border: 3px;
+    border: 5px;
     border-color: blueviolet;
     border-radius: 3px;
     padding: 5px;
