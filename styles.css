@@ -18,6 +18,7 @@ h3 {
 .image1 {
     max-width: 150px;
     border-radius: 10px;
+    text-align: center;
 }
 .image2 {
     width: 30%;
