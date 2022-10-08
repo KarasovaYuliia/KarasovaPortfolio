@@ -3,6 +3,10 @@ h1 {
     color: blueviolet;
     text-align: center;
 }
+h2 {
+    font-size: 28px;
+    text-align: center;
+}
 .image1 {
     max-width: 150px;
     border-radius: 10px;
