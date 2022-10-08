@@ -28,6 +28,7 @@ p {
 }
 .lounchApp {
     text-align: center;
+    color: brown;
     text-decoration: none;
     border: 3px;
     border-color: blueviolet;
