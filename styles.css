@@ -1,8 +1,12 @@
 h1 {
     font-size: 38px;
     color: blueviolet;
+    text-align: center;
 }
 .image1 {
     width: 30%;
     border-radius: 5px;
+}
+p {
+    text-align: center;
 }
