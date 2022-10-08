@@ -28,7 +28,7 @@ p {
 }
 .lounchApp {
     margin: 0;
-    text-align: center;
+    
     color: antiquewhite;
     background-color: blueviolet;
     text-decoration: none;
@@ -37,4 +37,7 @@ p {
     border-style: dotted;
     border-radius: 3px;
     padding: 5px;
+}
+a .lounchApp {
+    text-align: center;
 }
