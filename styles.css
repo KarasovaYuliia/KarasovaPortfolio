@@ -85,6 +85,6 @@ p {
     text-transform: capitalize;
   }
 .e-mail-link {
-text-align: center;
+    justify-content: center;
   }
 
