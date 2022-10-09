@@ -1,5 +1,5 @@
 body {
-    margin-left: 50px;
+    
     text-align: center;
 }
 h1 {
@@ -61,5 +61,6 @@ p {
 #violetBox {
     background-color: rgb(237, 231, 243);
     border-radius: 10px;
+    margin-left: 40px;
 }
 
