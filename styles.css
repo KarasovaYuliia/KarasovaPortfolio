@@ -70,4 +70,11 @@ p {
     margin-left: 0;
     margin-right: 0;
 }
+.navigation-links a {
+    margin: 20px;
+    border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
 
