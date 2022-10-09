@@ -36,17 +36,13 @@ p {
     text-align: right;
 }
 
-.col-md-7 {
+.col-md-6 {
 
     flex: 0 0 auto;
     padding: 0 12px;
 }
-.col-md-5 {
 
-    flex: 0 0 auto;
-    padding: 0 12px;
-}
-.col-md-5 .image1 {
+.col-md-6 .image1 {
     text-align: left;
 }
 .row {
