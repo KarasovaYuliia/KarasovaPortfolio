@@ -67,12 +67,12 @@ p {
 #violetBox {
     background-color: rgb(237, 231, 243);
     border-radius: 10px;
-    margin-left: 0;
+    margin-left: 10;
     margin-right: 0;
 }
 .navigation-links a {
     margin: 20px;
-    border-radius: 4px;
+    border-radius: 10px;
     padding: 20px 15px;
     text-decoration: none;
     text-transform: capitalize;
