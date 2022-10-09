@@ -14,8 +14,8 @@ container {
     box-shadow: var(--box-shadow);
 }
 h1 {
-    font-size: 100px;
-    color: blueviolet;
+    font-size: 68px;
+    color: rgb(41, 36, 45);
     text-align: center;
 }
 h2 {
