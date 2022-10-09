@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
 }
-@media (max-width:320px){
+@media (max-width:320px) {
     h1 {
         font-size: 48px;
         color: rgb(41, 36, 45);
