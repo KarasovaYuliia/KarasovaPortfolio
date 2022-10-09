@@ -44,7 +44,9 @@ p {
 .col-md-6 .image1 {
     text-align: left;
 }
-
+.row {
+    margin: 40px 20px;
+}
 .lounchApp {
     margin-left: 50px;
     display: flex;
