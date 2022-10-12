@@ -76,6 +76,16 @@ p {
 .about-section {
     padding: 160px 20px;
 }
+.about-section h1{
+    margin: 30px;
+}
+.about-section h2{
+    margin: 30px;
+}
+.about-section p{
+    margin: 30px;
+}
+
 .col-md-6 {
 
     flex: 0 0 auto;
