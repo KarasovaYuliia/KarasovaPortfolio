@@ -34,15 +34,17 @@ container {
     box-shadow: var(--box-shadow);
 }
 h1 {
-    font-size: 68px;
+    font-size: 64px;
     color: rgb(41, 36, 45);
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 h2 {
-    font-size: 40px;
+    font-size: 24px;
     text-align: center;
+    font-weight: normal;
+    line-height: 1.5;
     opacity: 0.7;
     margin-top: 20px;
     margin-bottom: 20px;
