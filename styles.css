@@ -84,6 +84,7 @@ p {
 }
 .about-section p{
     margin: 30px;
+    text-align: left;
 }
 
 .col-md-6 {
