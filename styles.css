@@ -78,9 +78,11 @@ p {
 }
 .about-section h1{
     margin: 30px;
+    text-align: left;
 }
 .about-section h2{
     margin: 30px;
+    text-align: left;
 }
 .about-section p{
     margin: 30px;
