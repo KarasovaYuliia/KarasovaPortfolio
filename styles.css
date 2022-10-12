@@ -25,7 +25,7 @@ body {
 container {
     margin-left: 20px;
     margin-right: 20px;
-    text-align: center;
+    /*text-align: center;*/
 }
 :root {
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
@@ -74,7 +74,7 @@ p {
 }
 
 .about-section {
-    padding: 160px 20px;
+    padding: 100px 20px;
 }
 .about-section h1{
     margin: 30px;
