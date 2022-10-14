@@ -57,6 +57,14 @@ h3 {
 .logo {
     max-width: 150px;
 }
+.nav ul {
+    margin: 0;
+    padding: 0;
+}
+.nav li {
+    display: inline;
+    list-style: none;
+}
 .image1 {
     max-width: 250px;
     border-radius: 10px;
