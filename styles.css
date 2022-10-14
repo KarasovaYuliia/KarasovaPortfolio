@@ -54,6 +54,9 @@ h3 {
     font-size: 26px;
     text-align: center;
 }
+.logo {
+    max-width: 150px;
+}
 .image1 {
     max-width: 250px;
     border-radius: 10px;
