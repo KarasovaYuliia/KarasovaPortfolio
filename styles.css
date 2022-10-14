@@ -69,6 +69,14 @@ nav li {
     list-style: none;
     line-height: 42px;
 }
+nav a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    color: blueviolet;
+}
 .image1 {
     max-width: 250px;
     border-radius: 10px;
