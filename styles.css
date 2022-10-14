@@ -57,10 +57,10 @@ h3 {
 .logo {
     max-width: 150px;
 }
-.nav {
+nav {
     padding: 20px 0;
 }
-.nav ul {
+nav ul {
     margin: 0;
     padding: 0;
 }
