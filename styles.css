@@ -57,6 +57,9 @@ h3 {
 .logo {
     max-width: 150px;
 }
+.nav {
+    padding: 20px 0;
+}
 .nav ul {
     margin: 0;
     padding: 0;
@@ -64,6 +67,7 @@ h3 {
 .nav li {
     display: inline;
     list-style: none;
+    line-height: 42px;
 }
 .image1 {
     max-width: 250px;
