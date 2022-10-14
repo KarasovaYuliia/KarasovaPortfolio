@@ -79,6 +79,9 @@ nav a:hover {
     color: blueviolet;
     transition: all 150ms ease-in-out;
 }
+nav li.active a {
+    color: rgb(167, 250, 222);
+}
 .image1 {
     max-width: 250px;
     border-radius: 10px;
