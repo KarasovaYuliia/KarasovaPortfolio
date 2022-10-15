@@ -8,6 +8,9 @@ footer .email-link {
     font-size: 24px;
     text-align: center;
   }
+footer .email-link:hover {
+    color: red;
+}
 @media (max-width:320px) {
     h1 {
         font-size: 48px;
