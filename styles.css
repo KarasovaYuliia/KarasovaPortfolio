@@ -8,6 +8,7 @@ footer {
 footer .contact-box {
     background-color: blueviolet;
     padding: 30px;
+    border-radius: 10px;
 }
 footer .email-link {
     text-decoration: none;
