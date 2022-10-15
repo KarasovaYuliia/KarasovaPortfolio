@@ -18,6 +18,9 @@ footer .social-links a {
 margin: 0 20px;
 color: blueviolet;
 background-color: burlywood;
+padding: 10px 14px;
+border-radius: 50%;
+font-size: 18px;
 }
 @media (max-width:320px) {
     h1 {
