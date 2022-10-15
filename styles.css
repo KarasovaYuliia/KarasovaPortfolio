@@ -11,6 +11,12 @@ footer .email-link {
 footer .email-link:hover {
     color: red;
 }
+footer {
+    margin: 60px 0;
+}
+footer .social-links a {
+margin: 0 20px;
+}
 @media (max-width:320px) {
     h1 {
         font-size: 48px;
