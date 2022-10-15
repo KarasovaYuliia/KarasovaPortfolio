@@ -16,6 +16,8 @@ footer {
 }
 footer .social-links a {
 margin: 0 20px;
+color: blueviolet;
+background-color: burlywood;
 }
 @media (max-width:320px) {
     h1 {
