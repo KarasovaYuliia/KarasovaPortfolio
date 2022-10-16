@@ -1,7 +1,15 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: var(--default-font-family);
 }
+:root {
+    --branding-color: #6c63ff;
+    --secondary-color: #f9f7fe;
+    --heading-font-family: "Playfair Display", serif;
+    --default-font-family: "Poppins", sans-serif;
+  }
+
 footer {
     margin: 60px 0;
 }
@@ -106,28 +114,31 @@ font-size: 48px;
 }
 nav {
     padding: 20px 0;
-}
-nav ul {
-    margin: 0;
+  }
+  
+  nav ul {
     padding: 0;
-}
-nav li {
+    margin: 0;
+  }
+  
+  nav li {
     display: inline;
     list-style: none;
     line-height: 42px;
-}
-nav a {
-    margin-left: 10px;
+    margin-left: 15px;
+  }
+  
+  nav a {
     text-decoration: none;
-    color: black;
-}
-nav a:hover {
-    color: blueviolet;
-    transition: all 150ms ease-in-out;
-}
-nav li.active a {
-    color: rgb(167, 250, 222);
-}
+    color: #272142;
+    transition: all 100ms ease-in-out;
+  }
+  
+  nav a:hover,
+  nav li.active a {
+    color: var(--branding-color);
+  }
+
 .image1 {
     max-width: 250px;
     border-radius: 10px;
